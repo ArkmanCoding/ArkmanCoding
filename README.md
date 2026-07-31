@@ -88,12 +88,12 @@ Skill | Level (Current) | Direction
 ----- | ---------------- | ----------
 **HTML5** | ███████████ 100% | Refining structure & semantics
 **CSS3** | ███████████ 100% | Better layouts, responsive design
-**JavaScript** | ████████░░░░ 80% | From basics to real projects
+**JavaScript** | 	████████░░░░80% | From basics to real projects
 **PHP** | ██████░░░░░ 60% | Building auth, forms, and logic
 **MySQL** | █████████░░ 90% | Designing clean schemas & queries
 **WordPress** | ███████░░░░░ 70% | Themes, basic customization
-**Unity & C#** | ████████░░░░░ 80% | Game prototypes & mechanics
-**Figma / UI** | ███████░░░░ 80% | Cleaner interfaces for web & games
+**Unity & C#** | 	████████░░░░ 80% | Game prototypes & mechanics
+**Figma / UI** | 	████████░░░░ 80% | Cleaner interfaces for web & games
 
 > 🚀 Always learning, always shipping.  
 > These numbers are about **focus & growth**, not ego.
