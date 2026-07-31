@@ -125,20 +125,24 @@ Skill | Level (Current) | Direction
 
 ## 📈 GitHub Stats
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=adibcoding&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/adibcoding/adibcoding/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adibcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" height="160" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=adibcoding&theme=tokyonight&hide_border=true&border_radius=14" height="160" alt="GitHub streak" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" height="150" alt="Top languages" />
+</p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/adibcoding/adibcoding/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  </picture>
+</p>
 
-###
+
 
 ---
 
@@ -157,6 +161,7 @@ Skill | Level (Current) | Direction
 ---
 
 ## 🌐 Connect
+
 
 
 <p align="left">
